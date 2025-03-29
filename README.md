@@ -19,6 +19,8 @@
 
 - ⚡ Fun fact **I play football**
 
+- My recent project link **lepdect.netlify.app**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abhi_jetli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhi_jetli" height="30" width="40" /></a>
