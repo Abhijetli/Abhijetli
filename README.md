@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I play football**
 
-- My recent project link **lepdect.netlify.app**
+- My recent project link: <a href="https://lepdect.netlify.app" target="_blank">lepdect.netlify.app</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
