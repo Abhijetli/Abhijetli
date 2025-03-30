@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/abhi_jetli" target="blank"><img src="https://img.shields.io/twitter/follow/abhi_jetli?logo=twitter&style=for-the-badge" alt="abhi_jetli" /></a> </p>
 
-- 🔭 I’m currently working on **Building a chatbot using RAG**
+- 🔭 I’m currently working on **<a href="https://lepdect.netlify.app" target="_blank">lepdect.netlify.app</a>**
 
 - 🌱 I’m currently learning **Machine Learning**
 
@@ -18,8 +18,6 @@
 - 📫 How to reach me **jetliabhi@gmail.com**
 
 - ⚡ Fun fact **I play football**
-
-- My recent project link: <a href="https://lepdect.netlify.app" target="_blank">lepdect.netlify.app</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
